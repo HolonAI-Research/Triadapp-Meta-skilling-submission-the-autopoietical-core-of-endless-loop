@@ -41,10 +41,6 @@ repo/
 ## Getting Started
 
 1. **Clone the repository**  
-   ```bash
-   git clone /home/kairosia/repo/TriadApp <your-clone-path>
-   cd TriadApp
-   ```
 
 2. **Run the bootstrap script** (creates directories, files, initial commit)  
    ```bash
